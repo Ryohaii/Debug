@@ -1,0 +1,3581 @@
+mTextureScreen chargÚ avec succÞs
+Init world
+TilesWorld::generateBiomes
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 0 indexY: 0
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 0 indexY: 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 0 indexY: 2
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 0 indexY: 3
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 0 indexY: 4
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 0 indexY: 5
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 1 indexY: 0
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 1 indexY: 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 1 indexY: 2
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 1 indexY: 3
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 1 indexY: 4
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 2 indexY: 0
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 2 indexY: 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 2 indexY: 2
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 2 indexY: 3
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 3 indexY: 0
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 3 indexY: 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 3 indexY: 2
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 4 indexY: 0
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 4 indexY: 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 5 indexY: 0
+ResourcesManager::loadResourcesFromJson
+ResourcesManager::loadResourcesFromJson Succes
+init Tooltip
+Setting Entity :: Player.
+Setting AnimationManager :: Player.
+Setting MovementManager :: Player.
+Init player
+Setting TilesWorld :: Player.
+Setting ResourcesManager :: Player.
+init Tooltip
+Setting CraftingTable :: CraftingTableGui.
+Setting ItemManager :: CraftingTableGui.
+Setting ResourcesManager :: CraftingTableGui.
+Setting Inventory :: CraftingTableGui.
+mTextureScreen chargÚ avec succÞs
+Init world
+TilesWorld::generateBiomes
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 0 indexY: 0
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 0 indexY: 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 0 indexY: 2
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 0 indexY: 3
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 0 indexY: 4
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 0 indexY: 5
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 1 indexY: 0
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 1 indexY: 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 1 indexY: 2
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 1 indexY: 3
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 1 indexY: 4
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 2 indexY: 0
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 2 indexY: 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 2 indexY: 2
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 2 indexY: 3
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 3 indexY: 0
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 3 indexY: 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 3 indexY: 2
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 4 indexY: 0
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 4 indexY: 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 5 indexY: 0
+ResourcesManager::loadResourcesFromJson
+ResourcesManager::loadResourcesFromJson Succes
+init Tooltip
+Setting Entity :: Player.
+Setting AnimationManager :: Player.
+Setting MovementManager :: Player.
+Init player
+Setting TilesWorld :: Player.
+Setting ResourcesManager :: Player.
+init Tooltip
+Setting CraftingTable :: CraftingTableGui.
+Setting ItemManager :: CraftingTableGui.
+Setting ResourcesManager :: CraftingTableGui.
+Setting Inventory :: CraftingTableGui.
+Setting animation to: idle_down
+Setting animation to: walk_right
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 0 indexY: 6
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+[DebugX]: 1 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 0 biomeY: 6
+spawnX: 256 spawnY: 16896
+Position valide.
+[DebugX]: 1 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 0 biomeY: 6
+spawnX: 256 spawnY: 17152
+Position valide.
+[DebugX]: 2 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 0 biomeY: 6
+spawnX: 512 spawnY: 16896
+Position valide.
+[DebugX]: 2 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 0 biomeY: 6
+spawnX: 512 spawnY: 17152
+Position valide.
+[DebugX]: 4 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 0 biomeY: 6
+spawnX: 1024 spawnY: 17664
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 0 biomeY: 6
+spawnX: 1280 spawnY: 17664
+Position valide.
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 0 biomeY: 6
+spawnX: 1792 spawnY: 16896
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 0 biomeY: 6
+spawnX: 1792 spawnY: 17152
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 0 biomeY: 6
+spawnX: 2048 spawnY: 16896
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 0 biomeY: 6
+spawnX: 2048 spawnY: 17152
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 0 biomeY: 6
+spawnX: 2304 spawnY: 16896
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 1 indexY: 5
+Resources Config: 0 Can Spawn in Biome: 4 : 1
+Resources Config: 1 Can Spawn in Biome: 4 : 1
+Resources Config: 2 Can Spawn in Biome: 4 : 1
+Resources Config: 3 Can Spawn in Biome: 4 : 1
+Resources Config: 15 Can Spawn in Biome: 4 : 1
+Resources Config: 16 Can Spawn in Biome: 4 : 1
+Resources Config: 17 Can Spawn in Biome: 4 : 1
+Resources Config: 25 Can Spawn in Biome: 4 : 1
+Resources Config: 30 Can Spawn in Biome: 4 : 1
+Resources Config: 31 Can Spawn in Biome: 4 : 1
+Resources Config: 34 Can Spawn in Biome: 4 : 1
+Resources Config: 39 Can Spawn in Biome: 4 : 1
+Resources Config: 40 Can Spawn in Biome: 4 : 1
+Resources Config: 41 Can Spawn in Biome: 4 : 1
+Resources Config: 42 Can Spawn in Biome: 4 : 1
+Resources Config: 43 Can Spawn in Biome: 4 : 1
+Resources Config: 44 Can Spawn in Biome: 4 : 1
+Resources Config: 45 Can Spawn in Biome: 4 : 1
+Resources Config: 46 Can Spawn in Biome: 4 : 1
+Resources Config: 47 Can Spawn in Biome: 4 : 1
+Resources Config: 48 Can Spawn in Biome: 4 : 1
+Resources Config: 49 Can Spawn in Biome: 4 : 1
+Resources Config: 50 Can Spawn in Biome: 4 : 1
+Resources Config: 51 Can Spawn in Biome: 4 : 1
+Resources Config: 52 Can Spawn in Biome: 4 : 1
+Resources Config: 53 Can Spawn in Biome: 4 : 1
+Resources Config: 54 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 56 Can Spawn in Biome: 4 : 1
+Resources Config: 57 Can Spawn in Biome: 4 : 1
+Resources Config: 58 Can Spawn in Biome: 4 : 1
+Resources Config: 59 Can Spawn in Biome: 4 : 1
+Resources Config: 60 Can Spawn in Biome: 4 : 1
+Resources Config: 61 Can Spawn in Biome: 4 : 1
+[DebugX]: 1 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 5
+spawnX: 2816 spawnY: 14336
+spawnX: 2816 spawnY: 14336
+Position valide.
+[DebugX]: 1 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 5
+spawnX: 2816 spawnY: 14592
+Position valide.
+[DebugX]: 2 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 5
+spawnX: 3072 spawnY: 14336
+Position valide.
+[DebugX]: 2 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 5
+spawnX: 3072 spawnY: 14592
+Position valide.
+[DebugX]: 4 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 5
+spawnX: 3584 spawnY: 15104
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 5
+spawnX: 3840 spawnY: 15104
+Position valide.
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 5
+spawnX: 4352 spawnY: 14336
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 5
+spawnX: 4352 spawnY: 14592
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 5
+spawnX: 4608 spawnY: 14336
+spawnX: 4608 spawnY: 14336
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 5
+spawnX: 4608 spawnY: 14592
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 5
+spawnX: 4864 spawnY: 14336
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 2 indexY: 4
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 3 indexY: 3
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+[DebugX]: 4 [DebugY]: 3
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 3
+spawnX: 8704 spawnY: 8448
+Position valide.
+[DebugX]: 4 [DebugY]: 4
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 3
+spawnX: 8704 spawnY: 8704
+Position valide.
+[DebugX]: 4 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 3
+spawnX: 8704 spawnY: 9984
+Position valide.
+[DebugX]: 5 [DebugY]: 3
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 3
+spawnX: 8960 spawnY: 8448
+Position valide.
+[DebugX]: 5 [DebugY]: 4
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 3
+spawnX: 8960 spawnY: 8704
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 3
+spawnX: 8960 spawnY: 9984
+Position valide.
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 3
+spawnX: 9472 spawnY: 9216
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 3
+spawnX: 9472 spawnY: 9472
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 3
+spawnX: 9728 spawnY: 9216
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 3
+spawnX: 9728 spawnY: 9472
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 3
+spawnX: 9984 spawnY: 9216
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 4 indexY: 2
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 5 indexY: 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 6 indexY: 0
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+[DebugX]: 7 [DebugY]: 0
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 0
+spawnX: 17152 spawnY: 0
+Position valide.
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 0
+spawnX: 17152 spawnY: 1536
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 0
+spawnX: 17152 spawnY: 1792
+Position valide.
+[DebugX]: 8 [DebugY]: 0
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 0
+spawnX: 17408 spawnY: 0
+Position valide.
+[DebugX]: 8 [DebugY]: 1
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 0
+spawnX: 17408 spawnY: 256
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 0
+spawnX: 17408 spawnY: 1536
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 0
+spawnX: 17408 spawnY: 1792
+spawnX: 17408 spawnY: 1792
+Position valide.
+[DebugX]: 9 [DebugY]: 0
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 0
+spawnX: 17664 spawnY: 0
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 0
+spawnX: 17664 spawnY: 1536
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 1 indexY: 6
+Resources Config: 2 Can Spawn in Biome: 8 : 1
+Resources Config: 4 Can Spawn in Biome: 8 : 1
+Resources Config: 20 Can Spawn in Biome: 8 : 1
+Resources Config: 21 Can Spawn in Biome: 8 : 1
+Resources Config: 26 Can Spawn in Biome: 8 : 1
+Resources Config: 27 Can Spawn in Biome: 8 : 1
+Resources Config: 32 Can Spawn in Biome: 8 : 1
+Resources Config: 35 Can Spawn in Biome: 8 : 1
+Resources Config: 37 Can Spawn in Biome: 8 : 1
+[DebugX]: 1 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 6
+spawnX: 2816 spawnY: 16896
+Position valide.
+[DebugX]: 1 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 6
+spawnX: 2816 spawnY: 17152
+Position valide.
+[DebugX]: 2 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 6
+spawnX: 3072 spawnY: 16896
+Position valide.
+[DebugX]: 2 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 6
+spawnX: 3072 spawnY: 17152
+Position valide.
+[DebugX]: 4 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 6
+spawnX: 3584 spawnY: 17664
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 6
+spawnX: 3840 spawnY: 17664
+Position valide.
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 6
+spawnX: 4352 spawnY: 16896
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 6
+spawnX: 4352 spawnY: 17152
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 6
+spawnX: 4608 spawnY: 16896
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 6
+spawnX: 4608 spawnY: 17152
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 6
+spawnX: 4864 spawnY: 16896
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 2 indexY: 5
+Resources Config: 4 Can Spawn in Biome: 9 : 1
+Resources Config: 23 Can Spawn in Biome: 9 : 1
+Resources Config: 24 Can Spawn in Biome: 9 : 1
+[DebugX]: 2 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 2 biomeY: 5
+spawnX: 5632 spawnY: 14336
+Position valide.
+[DebugX]: 2 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 2 biomeY: 5
+spawnX: 5632 spawnY: 14592
+Position valide.
+[DebugX]: 4 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 2 biomeY: 5
+spawnX: 6144 spawnY: 15104
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 2 biomeY: 5
+spawnX: 6400 spawnY: 15104
+Position valide.
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 2 biomeY: 5
+spawnX: 6912 spawnY: 14336
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 2 biomeY: 5
+spawnX: 6912 spawnY: 14592
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 2 biomeY: 5
+spawnX: 7168 spawnY: 14336
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 2 biomeY: 5
+spawnX: 7168 spawnY: 14592
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 2 biomeY: 5
+spawnX: 7424 spawnY: 14336
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 3 indexY: 4
+Resources Config: 2 Can Spawn in Biome: 8 : 1
+Resources Config: 4 Can Spawn in Biome: 8 : 1
+Resources Config: 20 Can Spawn in Biome: 8 : 1
+Resources Config: 21 Can Spawn in Biome: 8 : 1
+Resources Config: 26 Can Spawn in Biome: 8 : 1
+Resources Config: 27 Can Spawn in Biome: 8 : 1
+Resources Config: 32 Can Spawn in Biome: 8 : 1
+Resources Config: 35 Can Spawn in Biome: 8 : 1
+Resources Config: 37 Can Spawn in Biome: 8 : 1
+[DebugX]: 4 [DebugY]: 4
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 4
+spawnX: 8704 spawnY: 11264
+Position valide.
+[DebugX]: 4 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 4
+spawnX: 8704 spawnY: 12544
+Position valide.
+[DebugX]: 5 [DebugY]: 4
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 4
+spawnX: 8960 spawnY: 11264
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 4
+spawnX: 8960 spawnY: 12544
+Position valide.
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 4
+spawnX: 9472 spawnY: 11776
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 4
+spawnX: 9472 spawnY: 12032
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 4
+spawnX: 9728 spawnY: 11776
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 4
+spawnX: 9728 spawnY: 12032
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 3 biomeY: 4
+spawnX: 9984 spawnY: 11776
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 4 indexY: 3
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+[DebugX]: 4 [DebugY]: 3
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 3
+spawnX: 11264 spawnY: 8448
+Position valide.
+[DebugX]: 4 [DebugY]: 4
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 3
+spawnX: 11264 spawnY: 8704
+Position valide.
+[DebugX]: 4 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 3
+spawnX: 11264 spawnY: 9984
+spawnX: 11264 spawnY: 9984
+Position valide.
+[DebugX]: 5 [DebugY]: 3
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 3
+spawnX: 11520 spawnY: 8448
+Position valide.
+[DebugX]: 5 [DebugY]: 4
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 3
+spawnX: 11520 spawnY: 8704
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 3
+spawnX: 11520 spawnY: 9984
+Position valide.
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 3
+spawnX: 12032 spawnY: 9216
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 3
+spawnX: 12032 spawnY: 9472
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 3
+spawnX: 12288 spawnY: 9216
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 3
+spawnX: 12288 spawnY: 9472
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 3
+spawnX: 12544 spawnY: 9216
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 5 indexY: 2
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+[DebugX]: 5 [DebugY]: 3
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 2
+spawnX: 14080 spawnY: 5888
+Position valide.
+[DebugX]: 5 [DebugY]: 4
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 2
+spawnX: 14080 spawnY: 6144
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 2
+spawnX: 14080 spawnY: 7424
+Position valide.
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 2
+spawnX: 14592 spawnY: 6656
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 2
+spawnX: 14592 spawnY: 6912
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 2
+spawnX: 14848 spawnY: 6656
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 2
+spawnX: 14848 spawnY: 6912
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 2
+spawnX: 15104 spawnY: 6656
+spawnX: 15104 spawnY: 6656
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 6 indexY: 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 1 indexY: 7
+Resources Config: 0 Can Spawn in Biome: 4 : 1
+Resources Config: 1 Can Spawn in Biome: 4 : 1
+Resources Config: 2 Can Spawn in Biome: 4 : 1
+Resources Config: 3 Can Spawn in Biome: 4 : 1
+Resources Config: 15 Can Spawn in Biome: 4 : 1
+Resources Config: 16 Can Spawn in Biome: 4 : 1
+Resources Config: 17 Can Spawn in Biome: 4 : 1
+Resources Config: 25 Can Spawn in Biome: 4 : 1
+Resources Config: 30 Can Spawn in Biome: 4 : 1
+Resources Config: 31 Can Spawn in Biome: 4 : 1
+Resources Config: 34 Can Spawn in Biome: 4 : 1
+Resources Config: 39 Can Spawn in Biome: 4 : 1
+Resources Config: 40 Can Spawn in Biome: 4 : 1
+Resources Config: 41 Can Spawn in Biome: 4 : 1
+Resources Config: 42 Can Spawn in Biome: 4 : 1
+Resources Config: 43 Can Spawn in Biome: 4 : 1
+Resources Config: 44 Can Spawn in Biome: 4 : 1
+Resources Config: 45 Can Spawn in Biome: 4 : 1
+Resources Config: 46 Can Spawn in Biome: 4 : 1
+Resources Config: 47 Can Spawn in Biome: 4 : 1
+Resources Config: 48 Can Spawn in Biome: 4 : 1
+Resources Config: 49 Can Spawn in Biome: 4 : 1
+Resources Config: 50 Can Spawn in Biome: 4 : 1
+Resources Config: 51 Can Spawn in Biome: 4 : 1
+Resources Config: 52 Can Spawn in Biome: 4 : 1
+Resources Config: 53 Can Spawn in Biome: 4 : 1
+Resources Config: 54 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 56 Can Spawn in Biome: 4 : 1
+Resources Config: 57 Can Spawn in Biome: 4 : 1
+Resources Config: 58 Can Spawn in Biome: 4 : 1
+Resources Config: 59 Can Spawn in Biome: 4 : 1
+Resources Config: 60 Can Spawn in Biome: 4 : 1
+Resources Config: 61 Can Spawn in Biome: 4 : 1
+[DebugX]: 1 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 7
+spawnX: 2816 spawnY: 19712
+Position valide.
+[DebugX]: 2 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 7
+spawnX: 3072 spawnY: 19712
+Position valide.
+[DebugX]: 4 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 7
+spawnX: 3584 spawnY: 20224
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 7
+spawnX: 3840 spawnY: 20224
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 7
+spawnX: 4352 spawnY: 19712
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 1 biomeY: 7
+spawnX: 4608 spawnY: 19712
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 2 indexY: 6
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 3 indexY: 5
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 4 indexY: 4
+Resources Config: 0 Can Spawn in Biome: 4 : 1
+Resources Config: 1 Can Spawn in Biome: 4 : 1
+Resources Config: 2 Can Spawn in Biome: 4 : 1
+Resources Config: 3 Can Spawn in Biome: 4 : 1
+Resources Config: 15 Can Spawn in Biome: 4 : 1
+Resources Config: 16 Can Spawn in Biome: 4 : 1
+Resources Config: 17 Can Spawn in Biome: 4 : 1
+Resources Config: 25 Can Spawn in Biome: 4 : 1
+Resources Config: 30 Can Spawn in Biome: 4 : 1
+Resources Config: 31 Can Spawn in Biome: 4 : 1
+Resources Config: 34 Can Spawn in Biome: 4 : 1
+Resources Config: 39 Can Spawn in Biome: 4 : 1
+Resources Config: 40 Can Spawn in Biome: 4 : 1
+Resources Config: 41 Can Spawn in Biome: 4 : 1
+Resources Config: 42 Can Spawn in Biome: 4 : 1
+Resources Config: 43 Can Spawn in Biome: 4 : 1
+Resources Config: 44 Can Spawn in Biome: 4 : 1
+Resources Config: 45 Can Spawn in Biome: 4 : 1
+Resources Config: 46 Can Spawn in Biome: 4 : 1
+Resources Config: 47 Can Spawn in Biome: 4 : 1
+Resources Config: 48 Can Spawn in Biome: 4 : 1
+Resources Config: 49 Can Spawn in Biome: 4 : 1
+Resources Config: 50 Can Spawn in Biome: 4 : 1
+Resources Config: 51 Can Spawn in Biome: 4 : 1
+Resources Config: 52 Can Spawn in Biome: 4 : 1
+Resources Config: 53 Can Spawn in Biome: 4 : 1
+Resources Config: 54 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 56 Can Spawn in Biome: 4 : 1
+Resources Config: 57 Can Spawn in Biome: 4 : 1
+Resources Config: 58 Can Spawn in Biome: 4 : 1
+Resources Config: 59 Can Spawn in Biome: 4 : 1
+Resources Config: 60 Can Spawn in Biome: 4 : 1
+Resources Config: 61 Can Spawn in Biome: 4 : 1
+[DebugX]: 4 [DebugY]: 4
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 4
+spawnX: 11264 spawnY: 11264
+Position valide.
+[DebugX]: 4 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 4
+spawnX: 11264 spawnY: 12544
+Position valide.
+[DebugX]: 5 [DebugY]: 4
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 4
+spawnX: 11520 spawnY: 11264
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 4
+spawnX: 11520 spawnY: 12544
+Position valide.
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 4
+spawnX: 12032 spawnY: 11776
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 4
+spawnX: 12032 spawnY: 12032
+spawnX: 12032 spawnY: 12032
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 4
+spawnX: 12288 spawnY: 11776
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 4
+spawnX: 12288 spawnY: 12032
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 4
+spawnX: 12544 spawnY: 11776
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 5 indexY: 3
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+[DebugX]: 5 [DebugY]: 3
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 3
+spawnX: 14080 spawnY: 8448
+Position valide.
+[DebugX]: 5 [DebugY]: 4
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 3
+spawnX: 14080 spawnY: 8704
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 3
+spawnX: 14080 spawnY: 9984
+Position valide.
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 3
+spawnX: 14592 spawnY: 9216
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 3
+spawnX: 14592 spawnY: 9472
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 3
+spawnX: 14848 spawnY: 9216
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 3
+spawnX: 14848 spawnY: 9472
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 3
+spawnX: 15104 spawnY: 9216
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 6 indexY: 2
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 2
+spawnX: 17152 spawnY: 6656
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 2
+spawnX: 17152 spawnY: 6912
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 2
+spawnX: 17408 spawnY: 6656
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 2
+spawnX: 17408 spawnY: 6912
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 2
+spawnX: 17664 spawnY: 6656
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 7 indexY: 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 2 indexY: 7
+Resources Config: 2 Can Spawn in Biome: 8 : 1
+Resources Config: 4 Can Spawn in Biome: 8 : 1
+Resources Config: 20 Can Spawn in Biome: 8 : 1
+Resources Config: 21 Can Spawn in Biome: 8 : 1
+Resources Config: 26 Can Spawn in Biome: 8 : 1
+Resources Config: 27 Can Spawn in Biome: 8 : 1
+Resources Config: 32 Can Spawn in Biome: 8 : 1
+Resources Config: 35 Can Spawn in Biome: 8 : 1
+Resources Config: 37 Can Spawn in Biome: 8 : 1
+[DebugX]: 2 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 2 biomeY: 7
+spawnX: 5632 spawnY: 19712
+Position valide.
+[DebugX]: 4 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 2 biomeY: 7
+spawnX: 6144 spawnY: 20224
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 2 biomeY: 7
+spawnX: 6400 spawnY: 20224
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 2 biomeY: 7
+spawnX: 6912 spawnY: 19712
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 2 biomeY: 7
+spawnX: 7168 spawnY: 19712
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 3 indexY: 6
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 4 indexY: 5
+Resources Config: 4 Can Spawn in Biome: 9 : 1
+Resources Config: 23 Can Spawn in Biome: 9 : 1
+Resources Config: 24 Can Spawn in Biome: 9 : 1
+[DebugX]: 4 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 5
+spawnX: 11264 spawnY: 15104
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 5
+spawnX: 11520 spawnY: 15104
+Position valide.
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 5
+spawnX: 12032 spawnY: 14336
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 5
+spawnX: 12032 spawnY: 14592
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 5
+spawnX: 12288 spawnY: 14336
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 5
+spawnX: 12288 spawnY: 14592
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 5
+spawnX: 12544 spawnY: 14336
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 5 indexY: 4
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 6 indexY: 3
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 3
+spawnX: 17152 spawnY: 9216
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 3
+spawnX: 17152 spawnY: 9472
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 3
+spawnX: 17408 spawnY: 9216
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 3
+spawnX: 17408 spawnY: 9472
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 3
+spawnX: 17664 spawnY: 9216
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 7 indexY: 2
+Updating Weather...
+Current Weather: 2
+Setting animation to: walk_left
+Setting animation to: walk_down
+Setting animation to: walk_right
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 2 indexY: 8
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+[DebugX]: 4 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 2 biomeY: 8
+spawnX: 6144 spawnY: 22784
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 2 biomeY: 8
+spawnX: 6400 spawnY: 22784
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 3 indexY: 7
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 4 indexY: 6
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 5 indexY: 5
+Resources Config: 0 Can Spawn in Biome: 4 : 1
+Resources Config: 1 Can Spawn in Biome: 4 : 1
+Resources Config: 2 Can Spawn in Biome: 4 : 1
+Resources Config: 3 Can Spawn in Biome: 4 : 1
+Resources Config: 15 Can Spawn in Biome: 4 : 1
+Resources Config: 16 Can Spawn in Biome: 4 : 1
+Resources Config: 17 Can Spawn in Biome: 4 : 1
+Resources Config: 25 Can Spawn in Biome: 4 : 1
+Resources Config: 30 Can Spawn in Biome: 4 : 1
+Resources Config: 31 Can Spawn in Biome: 4 : 1
+Resources Config: 34 Can Spawn in Biome: 4 : 1
+Resources Config: 39 Can Spawn in Biome: 4 : 1
+Resources Config: 40 Can Spawn in Biome: 4 : 1
+Resources Config: 41 Can Spawn in Biome: 4 : 1
+Resources Config: 42 Can Spawn in Biome: 4 : 1
+Resources Config: 43 Can Spawn in Biome: 4 : 1
+Resources Config: 44 Can Spawn in Biome: 4 : 1
+Resources Config: 45 Can Spawn in Biome: 4 : 1
+Resources Config: 46 Can Spawn in Biome: 4 : 1
+Resources Config: 47 Can Spawn in Biome: 4 : 1
+Resources Config: 48 Can Spawn in Biome: 4 : 1
+Resources Config: 49 Can Spawn in Biome: 4 : 1
+Resources Config: 50 Can Spawn in Biome: 4 : 1
+Resources Config: 51 Can Spawn in Biome: 4 : 1
+Resources Config: 52 Can Spawn in Biome: 4 : 1
+Resources Config: 53 Can Spawn in Biome: 4 : 1
+Resources Config: 54 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 56 Can Spawn in Biome: 4 : 1
+Resources Config: 57 Can Spawn in Biome: 4 : 1
+Resources Config: 58 Can Spawn in Biome: 4 : 1
+Resources Config: 59 Can Spawn in Biome: 4 : 1
+Resources Config: 60 Can Spawn in Biome: 4 : 1
+Resources Config: 61 Can Spawn in Biome: 4 : 1
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 5
+spawnX: 14080 spawnY: 15104
+Position valide.
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 5
+spawnX: 14592 spawnY: 14336
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 5
+spawnX: 14592 spawnY: 14592
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 5
+spawnX: 14848 spawnY: 14336
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 5
+spawnX: 14848 spawnY: 14592
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 5
+spawnX: 15104 spawnY: 14336
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 6 indexY: 4
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 7 indexY: 3
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 3
+spawnX: 19712 spawnY: 9216
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 3
+spawnX: 19712 spawnY: 9472
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 3
+spawnX: 19968 spawnY: 9216
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 3
+spawnX: 19968 spawnY: 9472
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 3
+spawnX: 20224 spawnY: 9216
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 8 indexY: 2
+Resources Config: 0 Can Spawn in Biome: 4 : 1
+Resources Config: 1 Can Spawn in Biome: 4 : 1
+Resources Config: 2 Can Spawn in Biome: 4 : 1
+Resources Config: 3 Can Spawn in Biome: 4 : 1
+Resources Config: 15 Can Spawn in Biome: 4 : 1
+Resources Config: 16 Can Spawn in Biome: 4 : 1
+Resources Config: 17 Can Spawn in Biome: 4 : 1
+Resources Config: 25 Can Spawn in Biome: 4 : 1
+Resources Config: 30 Can Spawn in Biome: 4 : 1
+Resources Config: 31 Can Spawn in Biome: 4 : 1
+Resources Config: 34 Can Spawn in Biome: 4 : 1
+Resources Config: 39 Can Spawn in Biome: 4 : 1
+Resources Config: 40 Can Spawn in Biome: 4 : 1
+Resources Config: 41 Can Spawn in Biome: 4 : 1
+Resources Config: 42 Can Spawn in Biome: 4 : 1
+Resources Config: 43 Can Spawn in Biome: 4 : 1
+Resources Config: 44 Can Spawn in Biome: 4 : 1
+Resources Config: 45 Can Spawn in Biome: 4 : 1
+Resources Config: 46 Can Spawn in Biome: 4 : 1
+Resources Config: 47 Can Spawn in Biome: 4 : 1
+Resources Config: 48 Can Spawn in Biome: 4 : 1
+Resources Config: 49 Can Spawn in Biome: 4 : 1
+Resources Config: 50 Can Spawn in Biome: 4 : 1
+Resources Config: 51 Can Spawn in Biome: 4 : 1
+Resources Config: 52 Can Spawn in Biome: 4 : 1
+Resources Config: 53 Can Spawn in Biome: 4 : 1
+Resources Config: 54 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 56 Can Spawn in Biome: 4 : 1
+Resources Config: 57 Can Spawn in Biome: 4 : 1
+Resources Config: 58 Can Spawn in Biome: 4 : 1
+Resources Config: 59 Can Spawn in Biome: 4 : 1
+Resources Config: 60 Can Spawn in Biome: 4 : 1
+Resources Config: 61 Can Spawn in Biome: 4 : 1
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 8 biomeY: 2
+spawnX: 22528 spawnY: 6656
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 8 biomeY: 2
+spawnX: 22528 spawnY: 6912
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 8 biomeY: 2
+spawnX: 22784 spawnY: 6656
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 3 indexY: 8
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 4 indexY: 7
+Resources Config: 2 Can Spawn in Biome: 8 : 1
+Resources Config: 4 Can Spawn in Biome: 8 : 1
+Resources Config: 20 Can Spawn in Biome: 8 : 1
+Resources Config: 21 Can Spawn in Biome: 8 : 1
+Resources Config: 26 Can Spawn in Biome: 8 : 1
+Resources Config: 27 Can Spawn in Biome: 8 : 1
+Resources Config: 32 Can Spawn in Biome: 8 : 1
+Resources Config: 35 Can Spawn in Biome: 8 : 1
+Resources Config: 37 Can Spawn in Biome: 8 : 1
+[DebugX]: 4 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 7
+spawnX: 11264 spawnY: 20224
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 7
+spawnX: 11520 spawnY: 20224
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 7
+spawnX: 12032 spawnY: 19712
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 7
+spawnX: 12288 spawnY: 19712
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 5 indexY: 6
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 6 indexY: 5
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 5
+spawnX: 17152 spawnY: 14336
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 5
+spawnX: 17152 spawnY: 14592
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 5
+spawnX: 17408 spawnY: 14336
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 5
+spawnX: 17408 spawnY: 14592
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 5
+spawnX: 17664 spawnY: 14336
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 7 indexY: 4
+Resources Config: 0 Can Spawn in Biome: 4 : 1
+Resources Config: 1 Can Spawn in Biome: 4 : 1
+Resources Config: 2 Can Spawn in Biome: 4 : 1
+Resources Config: 3 Can Spawn in Biome: 4 : 1
+Resources Config: 15 Can Spawn in Biome: 4 : 1
+Resources Config: 16 Can Spawn in Biome: 4 : 1
+Resources Config: 17 Can Spawn in Biome: 4 : 1
+Resources Config: 25 Can Spawn in Biome: 4 : 1
+Resources Config: 30 Can Spawn in Biome: 4 : 1
+Resources Config: 31 Can Spawn in Biome: 4 : 1
+Resources Config: 34 Can Spawn in Biome: 4 : 1
+Resources Config: 39 Can Spawn in Biome: 4 : 1
+Resources Config: 40 Can Spawn in Biome: 4 : 1
+Resources Config: 41 Can Spawn in Biome: 4 : 1
+Resources Config: 42 Can Spawn in Biome: 4 : 1
+Resources Config: 43 Can Spawn in Biome: 4 : 1
+Resources Config: 44 Can Spawn in Biome: 4 : 1
+Resources Config: 45 Can Spawn in Biome: 4 : 1
+Resources Config: 46 Can Spawn in Biome: 4 : 1
+Resources Config: 47 Can Spawn in Biome: 4 : 1
+Resources Config: 48 Can Spawn in Biome: 4 : 1
+Resources Config: 49 Can Spawn in Biome: 4 : 1
+Resources Config: 50 Can Spawn in Biome: 4 : 1
+Resources Config: 51 Can Spawn in Biome: 4 : 1
+Resources Config: 52 Can Spawn in Biome: 4 : 1
+Resources Config: 53 Can Spawn in Biome: 4 : 1
+Resources Config: 54 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 56 Can Spawn in Biome: 4 : 1
+Resources Config: 57 Can Spawn in Biome: 4 : 1
+Resources Config: 58 Can Spawn in Biome: 4 : 1
+Resources Config: 59 Can Spawn in Biome: 4 : 1
+Resources Config: 60 Can Spawn in Biome: 4 : 1
+Resources Config: 61 Can Spawn in Biome: 4 : 1
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 4
+spawnX: 19712 spawnY: 11776
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 4
+spawnX: 19712 spawnY: 12032
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 4
+spawnX: 19968 spawnY: 11776
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 4
+spawnX: 19968 spawnY: 12032
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 4
+spawnX: 20224 spawnY: 11776
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 8 indexY: 3
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 8 biomeY: 3
+spawnX: 22528 spawnY: 9216
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 8 biomeY: 3
+spawnX: 22528 spawnY: 9472
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 8 biomeY: 3
+spawnX: 22784 spawnY: 9216
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 3 indexY: 9
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 4 indexY: 8
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+[DebugX]: 4 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 8
+spawnX: 11264 spawnY: 22784
+spawnX: 11264 spawnY: 22784
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 8
+spawnX: 11520 spawnY: 22784
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 5 indexY: 7
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 7
+spawnX: 14080 spawnY: 20224
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 7
+spawnX: 14592 spawnY: 19712
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 7
+spawnX: 14848 spawnY: 19712
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 6 indexY: 6
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 7 indexY: 5
+Resources Config: 2 Can Spawn in Biome: 8 : 1
+Resources Config: 4 Can Spawn in Biome: 8 : 1
+Resources Config: 20 Can Spawn in Biome: 8 : 1
+Resources Config: 21 Can Spawn in Biome: 8 : 1
+Resources Config: 26 Can Spawn in Biome: 8 : 1
+Resources Config: 27 Can Spawn in Biome: 8 : 1
+Resources Config: 32 Can Spawn in Biome: 8 : 1
+Resources Config: 35 Can Spawn in Biome: 8 : 1
+Resources Config: 37 Can Spawn in Biome: 8 : 1
+[DebugX]: 7 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 5
+spawnX: 19712 spawnY: 14336
+Position valide.
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 5
+spawnX: 19712 spawnY: 14592
+Position valide.
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 5
+spawnX: 19968 spawnY: 14336
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 5
+spawnX: 19968 spawnY: 14592
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 5
+spawnX: 20224 spawnY: 14336
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 8 indexY: 4
+Resources Config: 2 Can Spawn in Biome: 8 : 1
+Resources Config: 4 Can Spawn in Biome: 8 : 1
+Resources Config: 20 Can Spawn in Biome: 8 : 1
+Resources Config: 21 Can Spawn in Biome: 8 : 1
+Resources Config: 26 Can Spawn in Biome: 8 : 1
+Resources Config: 27 Can Spawn in Biome: 8 : 1
+Resources Config: 32 Can Spawn in Biome: 8 : 1
+Resources Config: 35 Can Spawn in Biome: 8 : 1
+Resources Config: 37 Can Spawn in Biome: 8 : 1
+[DebugX]: 8 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 8 biomeY: 4
+spawnX: 22528 spawnY: 11776
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 8 biomeY: 4
+spawnX: 22528 spawnY: 12032
+Position valide.
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 8 biomeY: 4
+spawnX: 22784 spawnY: 11776
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 9 indexY: 3
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 9 biomeY: 3
+spawnX: 25344 spawnY: 9216
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 4 indexY: 9
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+[DebugX]: 4 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 9
+spawnX: 11264 spawnY: 25344
+Position valide.
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 4 biomeY: 9
+spawnX: 11520 spawnY: 25344
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 5 indexY: 8
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+[DebugX]: 5 [DebugY]: 9
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 5 biomeY: 8
+spawnX: 14080 spawnY: 22784
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 6 indexY: 7
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 7
+spawnX: 17152 spawnY: 19712
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 6 biomeY: 7
+spawnX: 17408 spawnY: 19712
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 7 indexY: 6
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 8 indexY: 5
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 9 indexY: 4
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 4 indexY: 10
+Resources Config: 2 Can Spawn in Biome: 8 : 1
+Resources Config: 4 Can Spawn in Biome: 8 : 1
+Resources Config: 20 Can Spawn in Biome: 8 : 1
+Resources Config: 21 Can Spawn in Biome: 8 : 1
+Resources Config: 26 Can Spawn in Biome: 8 : 1
+Resources Config: 27 Can Spawn in Biome: 8 : 1
+Resources Config: 32 Can Spawn in Biome: 8 : 1
+Resources Config: 35 Can Spawn in Biome: 8 : 1
+Resources Config: 37 Can Spawn in Biome: 8 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 5 indexY: 9
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 6 indexY: 8
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 7 indexY: 7
+Resources Config: 2 Can Spawn in Biome: 8 : 1
+Resources Config: 4 Can Spawn in Biome: 8 : 1
+Resources Config: 20 Can Spawn in Biome: 8 : 1
+Resources Config: 21 Can Spawn in Biome: 8 : 1
+Resources Config: 26 Can Spawn in Biome: 8 : 1
+Resources Config: 27 Can Spawn in Biome: 8 : 1
+Resources Config: 32 Can Spawn in Biome: 8 : 1
+Resources Config: 35 Can Spawn in Biome: 8 : 1
+Resources Config: 37 Can Spawn in Biome: 8 : 1
+[DebugX]: 7 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 7
+spawnX: 19712 spawnY: 19712
+Position valide.
+[DebugX]: 8 [DebugY]: 7
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 7 biomeY: 7
+spawnX: 19968 spawnY: 19712
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 8 indexY: 6
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 9 indexY: 5
+Resources Config: 4 Can Spawn in Biome: 9 : 1
+Resources Config: 23 Can Spawn in Biome: 9 : 1
+Resources Config: 24 Can Spawn in Biome: 9 : 1
+[DebugX]: 9 [DebugY]: 6
+La position est valide
+biomeMaxSizeX: 10 biomeMaxSizeY: 10 tileSize: 256 biomeX: 9 biomeY: 5
+spawnX: 25344 spawnY: 14336
+Position valide.
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 10 indexY: 4
+Resources Config: 2 Can Spawn in Biome: 8 : 1
+Resources Config: 4 Can Spawn in Biome: 8 : 1
+Resources Config: 20 Can Spawn in Biome: 8 : 1
+Resources Config: 21 Can Spawn in Biome: 8 : 1
+Resources Config: 26 Can Spawn in Biome: 8 : 1
+Resources Config: 27 Can Spawn in Biome: 8 : 1
+Resources Config: 32 Can Spawn in Biome: 8 : 1
+Resources Config: 35 Can Spawn in Biome: 8 : 1
+Resources Config: 37 Can Spawn in Biome: 8 : 1
+Updating Weather...
+Current Weather: 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 5 indexY: 10
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 6 indexY: 9
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 7 indexY: 8
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 8 indexY: 7
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 9 indexY: 6
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 10 indexY: 5
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 5 indexY: 11
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 6 indexY: 10
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 7 indexY: 9
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 8 indexY: 8
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 9 indexY: 7
+Resources Config: 4 Can Spawn in Biome: 9 : 1
+Resources Config: 23 Can Spawn in Biome: 9 : 1
+Resources Config: 24 Can Spawn in Biome: 9 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 10 indexY: 6
+Resources Config: 2 Can Spawn in Biome: 8 : 1
+Resources Config: 4 Can Spawn in Biome: 8 : 1
+Resources Config: 20 Can Spawn in Biome: 8 : 1
+Resources Config: 21 Can Spawn in Biome: 8 : 1
+Resources Config: 26 Can Spawn in Biome: 8 : 1
+Resources Config: 27 Can Spawn in Biome: 8 : 1
+Resources Config: 32 Can Spawn in Biome: 8 : 1
+Resources Config: 35 Can Spawn in Biome: 8 : 1
+Resources Config: 37 Can Spawn in Biome: 8 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 11 indexY: 5
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 6 indexY: 11
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 7 indexY: 10
+Resources Config: 2 Can Spawn in Biome: 8 : 1
+Resources Config: 4 Can Spawn in Biome: 8 : 1
+Resources Config: 20 Can Spawn in Biome: 8 : 1
+Resources Config: 21 Can Spawn in Biome: 8 : 1
+Resources Config: 26 Can Spawn in Biome: 8 : 1
+Resources Config: 27 Can Spawn in Biome: 8 : 1
+Resources Config: 32 Can Spawn in Biome: 8 : 1
+Resources Config: 35 Can Spawn in Biome: 8 : 1
+Resources Config: 37 Can Spawn in Biome: 8 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 8 indexY: 9
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 9 indexY: 8
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 10 indexY: 7
+Resources Config: 0 Can Spawn in Biome: 4 : 1
+Resources Config: 1 Can Spawn in Biome: 4 : 1
+Resources Config: 2 Can Spawn in Biome: 4 : 1
+Resources Config: 3 Can Spawn in Biome: 4 : 1
+Resources Config: 15 Can Spawn in Biome: 4 : 1
+Resources Config: 16 Can Spawn in Biome: 4 : 1
+Resources Config: 17 Can Spawn in Biome: 4 : 1
+Resources Config: 25 Can Spawn in Biome: 4 : 1
+Resources Config: 30 Can Spawn in Biome: 4 : 1
+Resources Config: 31 Can Spawn in Biome: 4 : 1
+Resources Config: 34 Can Spawn in Biome: 4 : 1
+Resources Config: 39 Can Spawn in Biome: 4 : 1
+Resources Config: 40 Can Spawn in Biome: 4 : 1
+Resources Config: 41 Can Spawn in Biome: 4 : 1
+Resources Config: 42 Can Spawn in Biome: 4 : 1
+Resources Config: 43 Can Spawn in Biome: 4 : 1
+Resources Config: 44 Can Spawn in Biome: 4 : 1
+Resources Config: 45 Can Spawn in Biome: 4 : 1
+Resources Config: 46 Can Spawn in Biome: 4 : 1
+Resources Config: 47 Can Spawn in Biome: 4 : 1
+Resources Config: 48 Can Spawn in Biome: 4 : 1
+Resources Config: 49 Can Spawn in Biome: 4 : 1
+Resources Config: 50 Can Spawn in Biome: 4 : 1
+Resources Config: 51 Can Spawn in Biome: 4 : 1
+Resources Config: 52 Can Spawn in Biome: 4 : 1
+Resources Config: 53 Can Spawn in Biome: 4 : 1
+Resources Config: 54 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 56 Can Spawn in Biome: 4 : 1
+Resources Config: 57 Can Spawn in Biome: 4 : 1
+Resources Config: 58 Can Spawn in Biome: 4 : 1
+Resources Config: 59 Can Spawn in Biome: 4 : 1
+Resources Config: 60 Can Spawn in Biome: 4 : 1
+Resources Config: 61 Can Spawn in Biome: 4 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 11 indexY: 6
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 6 indexY: 12
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 7 indexY: 11
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 8 indexY: 10
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 9 indexY: 9
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 10 indexY: 8
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 11 indexY: 7
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 12 indexY: 6
+Resources Config: 0 Can Spawn in Biome: 4 : 1
+Resources Config: 1 Can Spawn in Biome: 4 : 1
+Resources Config: 2 Can Spawn in Biome: 4 : 1
+Resources Config: 3 Can Spawn in Biome: 4 : 1
+Resources Config: 15 Can Spawn in Biome: 4 : 1
+Resources Config: 16 Can Spawn in Biome: 4 : 1
+Resources Config: 17 Can Spawn in Biome: 4 : 1
+Resources Config: 25 Can Spawn in Biome: 4 : 1
+Resources Config: 30 Can Spawn in Biome: 4 : 1
+Resources Config: 31 Can Spawn in Biome: 4 : 1
+Resources Config: 34 Can Spawn in Biome: 4 : 1
+Resources Config: 39 Can Spawn in Biome: 4 : 1
+Resources Config: 40 Can Spawn in Biome: 4 : 1
+Resources Config: 41 Can Spawn in Biome: 4 : 1
+Resources Config: 42 Can Spawn in Biome: 4 : 1
+Resources Config: 43 Can Spawn in Biome: 4 : 1
+Resources Config: 44 Can Spawn in Biome: 4 : 1
+Resources Config: 45 Can Spawn in Biome: 4 : 1
+Resources Config: 46 Can Spawn in Biome: 4 : 1
+Resources Config: 47 Can Spawn in Biome: 4 : 1
+Resources Config: 48 Can Spawn in Biome: 4 : 1
+Resources Config: 49 Can Spawn in Biome: 4 : 1
+Resources Config: 50 Can Spawn in Biome: 4 : 1
+Resources Config: 51 Can Spawn in Biome: 4 : 1
+Resources Config: 52 Can Spawn in Biome: 4 : 1
+Resources Config: 53 Can Spawn in Biome: 4 : 1
+Resources Config: 54 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 56 Can Spawn in Biome: 4 : 1
+Resources Config: 57 Can Spawn in Biome: 4 : 1
+Resources Config: 58 Can Spawn in Biome: 4 : 1
+Resources Config: 59 Can Spawn in Biome: 4 : 1
+Resources Config: 60 Can Spawn in Biome: 4 : 1
+Resources Config: 61 Can Spawn in Biome: 4 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 7 indexY: 12
+Resources Config: 2 Can Spawn in Biome: 8 : 1
+Resources Config: 4 Can Spawn in Biome: 8 : 1
+Resources Config: 20 Can Spawn in Biome: 8 : 1
+Resources Config: 21 Can Spawn in Biome: 8 : 1
+Resources Config: 26 Can Spawn in Biome: 8 : 1
+Resources Config: 27 Can Spawn in Biome: 8 : 1
+Resources Config: 32 Can Spawn in Biome: 8 : 1
+Resources Config: 35 Can Spawn in Biome: 8 : 1
+Resources Config: 37 Can Spawn in Biome: 8 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 8 indexY: 11
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 9 indexY: 10
+Resources Config: 4 Can Spawn in Biome: 9 : 1
+Resources Config: 23 Can Spawn in Biome: 9 : 1
+Resources Config: 24 Can Spawn in Biome: 9 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 10 indexY: 9
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 11 indexY: 8
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 12 indexY: 7
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 7 indexY: 13
+Resources Config: 0 Can Spawn in Biome: 4 : 1
+Resources Config: 1 Can Spawn in Biome: 4 : 1
+Resources Config: 2 Can Spawn in Biome: 4 : 1
+Resources Config: 3 Can Spawn in Biome: 4 : 1
+Resources Config: 15 Can Spawn in Biome: 4 : 1
+Resources Config: 16 Can Spawn in Biome: 4 : 1
+Resources Config: 17 Can Spawn in Biome: 4 : 1
+Resources Config: 25 Can Spawn in Biome: 4 : 1
+Resources Config: 30 Can Spawn in Biome: 4 : 1
+Resources Config: 31 Can Spawn in Biome: 4 : 1
+Resources Config: 34 Can Spawn in Biome: 4 : 1
+Resources Config: 39 Can Spawn in Biome: 4 : 1
+Resources Config: 40 Can Spawn in Biome: 4 : 1
+Resources Config: 41 Can Spawn in Biome: 4 : 1
+Resources Config: 42 Can Spawn in Biome: 4 : 1
+Resources Config: 43 Can Spawn in Biome: 4 : 1
+Resources Config: 44 Can Spawn in Biome: 4 : 1
+Resources Config: 45 Can Spawn in Biome: 4 : 1
+Resources Config: 46 Can Spawn in Biome: 4 : 1
+Resources Config: 47 Can Spawn in Biome: 4 : 1
+Resources Config: 48 Can Spawn in Biome: 4 : 1
+Resources Config: 49 Can Spawn in Biome: 4 : 1
+Resources Config: 50 Can Spawn in Biome: 4 : 1
+Resources Config: 51 Can Spawn in Biome: 4 : 1
+Resources Config: 52 Can Spawn in Biome: 4 : 1
+Resources Config: 53 Can Spawn in Biome: 4 : 1
+Resources Config: 54 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 56 Can Spawn in Biome: 4 : 1
+Resources Config: 57 Can Spawn in Biome: 4 : 1
+Resources Config: 58 Can Spawn in Biome: 4 : 1
+Resources Config: 59 Can Spawn in Biome: 4 : 1
+Resources Config: 60 Can Spawn in Biome: 4 : 1
+Resources Config: 61 Can Spawn in Biome: 4 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 8 indexY: 12
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 9 indexY: 11
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 10 indexY: 10
+Resources Config: 0 Can Spawn in Biome: 4 : 1
+Resources Config: 1 Can Spawn in Biome: 4 : 1
+Resources Config: 2 Can Spawn in Biome: 4 : 1
+Resources Config: 3 Can Spawn in Biome: 4 : 1
+Resources Config: 15 Can Spawn in Biome: 4 : 1
+Resources Config: 16 Can Spawn in Biome: 4 : 1
+Resources Config: 17 Can Spawn in Biome: 4 : 1
+Resources Config: 25 Can Spawn in Biome: 4 : 1
+Resources Config: 30 Can Spawn in Biome: 4 : 1
+Resources Config: 31 Can Spawn in Biome: 4 : 1
+Resources Config: 34 Can Spawn in Biome: 4 : 1
+Resources Config: 39 Can Spawn in Biome: 4 : 1
+Resources Config: 40 Can Spawn in Biome: 4 : 1
+Resources Config: 41 Can Spawn in Biome: 4 : 1
+Resources Config: 42 Can Spawn in Biome: 4 : 1
+Resources Config: 43 Can Spawn in Biome: 4 : 1
+Resources Config: 44 Can Spawn in Biome: 4 : 1
+Resources Config: 45 Can Spawn in Biome: 4 : 1
+Resources Config: 46 Can Spawn in Biome: 4 : 1
+Resources Config: 47 Can Spawn in Biome: 4 : 1
+Resources Config: 48 Can Spawn in Biome: 4 : 1
+Resources Config: 49 Can Spawn in Biome: 4 : 1
+Resources Config: 50 Can Spawn in Biome: 4 : 1
+Resources Config: 51 Can Spawn in Biome: 4 : 1
+Resources Config: 52 Can Spawn in Biome: 4 : 1
+Resources Config: 53 Can Spawn in Biome: 4 : 1
+Resources Config: 54 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 56 Can Spawn in Biome: 4 : 1
+Resources Config: 57 Can Spawn in Biome: 4 : 1
+Resources Config: 58 Can Spawn in Biome: 4 : 1
+Resources Config: 59 Can Spawn in Biome: 4 : 1
+Resources Config: 60 Can Spawn in Biome: 4 : 1
+Resources Config: 61 Can Spawn in Biome: 4 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 11 indexY: 9
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 12 indexY: 8
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 13 indexY: 7
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 8 indexY: 13
+Resources Config: 2 Can Spawn in Biome: 8 : 1
+Resources Config: 4 Can Spawn in Biome: 8 : 1
+Resources Config: 20 Can Spawn in Biome: 8 : 1
+Resources Config: 21 Can Spawn in Biome: 8 : 1
+Resources Config: 26 Can Spawn in Biome: 8 : 1
+Resources Config: 27 Can Spawn in Biome: 8 : 1
+Resources Config: 32 Can Spawn in Biome: 8 : 1
+Resources Config: 35 Can Spawn in Biome: 8 : 1
+Resources Config: 37 Can Spawn in Biome: 8 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 9 indexY: 12
+Resources Config: 4 Can Spawn in Biome: 9 : 1
+Resources Config: 23 Can Spawn in Biome: 9 : 1
+Resources Config: 24 Can Spawn in Biome: 9 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 10 indexY: 11
+Resources Config: 2 Can Spawn in Biome: 8 : 1
+Resources Config: 4 Can Spawn in Biome: 8 : 1
+Resources Config: 20 Can Spawn in Biome: 8 : 1
+Resources Config: 21 Can Spawn in Biome: 8 : 1
+Resources Config: 26 Can Spawn in Biome: 8 : 1
+Resources Config: 27 Can Spawn in Biome: 8 : 1
+Resources Config: 32 Can Spawn in Biome: 8 : 1
+Resources Config: 35 Can Spawn in Biome: 8 : 1
+Resources Config: 37 Can Spawn in Biome: 8 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 11 indexY: 10
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 12 indexY: 9
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 13 indexY: 8
+Updating Weather...
+Current Weather: 3
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 8 indexY: 14
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 9 indexY: 13
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 10 indexY: 12
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 11 indexY: 11
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 12 indexY: 10
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 13 indexY: 9
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 14 indexY: 8
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 9 indexY: 14
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 10 indexY: 13
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 11 indexY: 12
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 12 indexY: 11
+Resources Config: 0 Can Spawn in Biome: 4 : 1
+Resources Config: 1 Can Spawn in Biome: 4 : 1
+Resources Config: 2 Can Spawn in Biome: 4 : 1
+Resources Config: 3 Can Spawn in Biome: 4 : 1
+Resources Config: 15 Can Spawn in Biome: 4 : 1
+Resources Config: 16 Can Spawn in Biome: 4 : 1
+Resources Config: 17 Can Spawn in Biome: 4 : 1
+Resources Config: 25 Can Spawn in Biome: 4 : 1
+Resources Config: 30 Can Spawn in Biome: 4 : 1
+Resources Config: 31 Can Spawn in Biome: 4 : 1
+Resources Config: 34 Can Spawn in Biome: 4 : 1
+Resources Config: 39 Can Spawn in Biome: 4 : 1
+Resources Config: 40 Can Spawn in Biome: 4 : 1
+Resources Config: 41 Can Spawn in Biome: 4 : 1
+Resources Config: 42 Can Spawn in Biome: 4 : 1
+Resources Config: 43 Can Spawn in Biome: 4 : 1
+Resources Config: 44 Can Spawn in Biome: 4 : 1
+Resources Config: 45 Can Spawn in Biome: 4 : 1
+Resources Config: 46 Can Spawn in Biome: 4 : 1
+Resources Config: 47 Can Spawn in Biome: 4 : 1
+Resources Config: 48 Can Spawn in Biome: 4 : 1
+Resources Config: 49 Can Spawn in Biome: 4 : 1
+Resources Config: 50 Can Spawn in Biome: 4 : 1
+Resources Config: 51 Can Spawn in Biome: 4 : 1
+Resources Config: 52 Can Spawn in Biome: 4 : 1
+Resources Config: 53 Can Spawn in Biome: 4 : 1
+Resources Config: 54 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 55 Can Spawn in Biome: 4 : 1
+Resources Config: 56 Can Spawn in Biome: 4 : 1
+Resources Config: 57 Can Spawn in Biome: 4 : 1
+Resources Config: 58 Can Spawn in Biome: 4 : 1
+Resources Config: 59 Can Spawn in Biome: 4 : 1
+Resources Config: 60 Can Spawn in Biome: 4 : 1
+Resources Config: 61 Can Spawn in Biome: 4 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 13 indexY: 10
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 14 indexY: 9
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 9 indexY: 15
+Resources Config: 2 Can Spawn in Biome: 8 : 1
+Resources Config: 4 Can Spawn in Biome: 8 : 1
+Resources Config: 20 Can Spawn in Biome: 8 : 1
+Resources Config: 21 Can Spawn in Biome: 8 : 1
+Resources Config: 26 Can Spawn in Biome: 8 : 1
+Resources Config: 27 Can Spawn in Biome: 8 : 1
+Resources Config: 32 Can Spawn in Biome: 8 : 1
+Resources Config: 35 Can Spawn in Biome: 8 : 1
+Resources Config: 37 Can Spawn in Biome: 8 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 10 indexY: 14
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 11 indexY: 13
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 12 indexY: 12
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 13 indexY: 11
+Resources Config: 4 Can Spawn in Biome: 9 : 1
+Resources Config: 23 Can Spawn in Biome: 9 : 1
+Resources Config: 24 Can Spawn in Biome: 9 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 14 indexY: 10
+Resources Config: 4 Can Spawn in Biome: 9 : 1
+Resources Config: 23 Can Spawn in Biome: 9 : 1
+Resources Config: 24 Can Spawn in Biome: 9 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 15 indexY: 9
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 10 indexY: 3
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 11 indexY: 4
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 12 indexY: 5
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 13 indexY: 6
+Resources Config: 4 Can Spawn in Biome: 9 : 1
+Resources Config: 23 Can Spawn in Biome: 9 : 1
+Resources Config: 24 Can Spawn in Biome: 9 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 14 indexY: 7
+Resources Config: 4 Can Spawn in Biome: 9 : 1
+Resources Config: 23 Can Spawn in Biome: 9 : 1
+Resources Config: 24 Can Spawn in Biome: 9 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 15 indexY: 8
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 10 indexY: 2
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 11 indexY: 3
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 12 indexY: 4
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 13 indexY: 5
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 14 indexY: 6
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 15 indexY: 7
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 16 indexY: 8
+Resources Config: 1 Can Spawn in Biome: 5 : 1
+Resources Config: 2 Can Spawn in Biome: 5 : 1
+Resources Config: 5 Can Spawn in Biome: 5 : 1
+Resources Config: 18 Can Spawn in Biome: 5 : 1
+Resources Config: 19 Can Spawn in Biome: 5 : 1
+Resources Config: 39 Can Spawn in Biome: 5 : 1
+Resources Config: 40 Can Spawn in Biome: 5 : 1
+Resources Config: 41 Can Spawn in Biome: 5 : 1
+Resources Config: 42 Can Spawn in Biome: 5 : 1
+Resources Config: 43 Can Spawn in Biome: 5 : 1
+Resources Config: 44 Can Spawn in Biome: 5 : 1
+Resources Config: 45 Can Spawn in Biome: 5 : 1
+Resources Config: 46 Can Spawn in Biome: 5 : 1
+Resources Config: 47 Can Spawn in Biome: 5 : 1
+Resources Config: 48 Can Spawn in Biome: 5 : 1
+Resources Config: 49 Can Spawn in Biome: 5 : 1
+Resources Config: 50 Can Spawn in Biome: 5 : 1
+Resources Config: 51 Can Spawn in Biome: 5 : 1
+Resources Config: 52 Can Spawn in Biome: 5 : 1
+Resources Config: 53 Can Spawn in Biome: 5 : 1
+Resources Config: 54 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 55 Can Spawn in Biome: 5 : 1
+Resources Config: 56 Can Spawn in Biome: 5 : 1
+Resources Config: 57 Can Spawn in Biome: 5 : 1
+Resources Config: 58 Can Spawn in Biome: 5 : 1
+Resources Config: 59 Can Spawn in Biome: 5 : 1
+Resources Config: 60 Can Spawn in Biome: 5 : 1
+Resources Config: 61 Can Spawn in Biome: 5 : 1
+Setting animation to: walk_up
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 11 indexY: 2
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 12 indexY: 3
+Resources Config: 1 Can Spawn in Biome: 6 : 1
+Resources Config: 2 Can Spawn in Biome: 6 : 1
+Resources Config: 5 Can Spawn in Biome: 6 : 1
+Resources Config: 22 Can Spawn in Biome: 6 : 1
+Resources Config: 28 Can Spawn in Biome: 6 : 1
+Resources Config: 29 Can Spawn in Biome: 6 : 1
+Resources Config: 33 Can Spawn in Biome: 6 : 1
+Resources Config: 36 Can Spawn in Biome: 6 : 1
+Resources Config: 38 Can Spawn in Biome: 6 : 1
+Resources Config: 39 Can Spawn in Biome: 6 : 1
+Resources Config: 40 Can Spawn in Biome: 6 : 1
+Resources Config: 41 Can Spawn in Biome: 6 : 1
+Resources Config: 42 Can Spawn in Biome: 6 : 1
+Resources Config: 43 Can Spawn in Biome: 6 : 1
+Resources Config: 44 Can Spawn in Biome: 6 : 1
+Resources Config: 45 Can Spawn in Biome: 6 : 1
+Resources Config: 46 Can Spawn in Biome: 6 : 1
+Resources Config: 47 Can Spawn in Biome: 6 : 1
+Resources Config: 48 Can Spawn in Biome: 6 : 1
+Resources Config: 49 Can Spawn in Biome: 6 : 1
+Resources Config: 50 Can Spawn in Biome: 6 : 1
+Resources Config: 51 Can Spawn in Biome: 6 : 1
+Resources Config: 52 Can Spawn in Biome: 6 : 1
+Resources Config: 53 Can Spawn in Biome: 6 : 1
+Resources Config: 54 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 55 Can Spawn in Biome: 6 : 1
+Resources Config: 56 Can Spawn in Biome: 6 : 1
+Resources Config: 57 Can Spawn in Biome: 6 : 1
+Resources Config: 58 Can Spawn in Biome: 6 : 1
+Resources Config: 59 Can Spawn in Biome: 6 : 1
+Resources Config: 60 Can Spawn in Biome: 6 : 1
+Resources Config: 61 Can Spawn in Biome: 6 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 13 indexY: 4
+Resources Config: 2 Can Spawn in Biome: 8 : 1
+Resources Config: 4 Can Spawn in Biome: 8 : 1
+Resources Config: 20 Can Spawn in Biome: 8 : 1
+Resources Config: 21 Can Spawn in Biome: 8 : 1
+Resources Config: 26 Can Spawn in Biome: 8 : 1
+Resources Config: 27 Can Spawn in Biome: 8 : 1
+Resources Config: 32 Can Spawn in Biome: 8 : 1
+Resources Config: 35 Can Spawn in Biome: 8 : 1
+Resources Config: 37 Can Spawn in Biome: 8 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 14 indexY: 5
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 15 indexY: 6
+Resources Config: 4 Can Spawn in Biome: 9 : 1
+Resources Config: 23 Can Spawn in Biome: 9 : 1
+Resources Config: 24 Can Spawn in Biome: 9 : 1
+TilesWorld::generateTilesAndResourcesForBiome
+TilesWorld::generateTilesForBiome
+Generating resources for biome with indexX: 16 indexY: 7
+Updating Weather...
+Current Weather: 1
+Setting animation to: idle_down
+
+Sortie de C:\Users\Ryohai\Desktop\c++\Empires Reborn\Empire Reborn\x64\Release\Empire Reborn.exe (processus 17960). Code : 0.
+Appuyez sur une touche pour fermer cette fenêtre. . .
